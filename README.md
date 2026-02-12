@@ -48,7 +48,7 @@ GestuBot/
 ### Install
 
 ```bash
-git clone https://github.com/<your-username>/GestuBot.git
+git clone https://github.com/RuGG12/GestuBot2
 cd GestuBot
 pip install -r requirements.txt
 ```
@@ -188,3 +188,4 @@ The bridge has a safety timeout — if no gesture messages arrive for 0.5s, it s
 ## License
 
 MIT
+
